@@ -49,7 +49,7 @@ Stealer.exe COOKIES
 
   1. Download the Debug.rar 
   2. Execute `Debug.exe`
-  3. Enter your webhook
+  3. Enter your config
   4. Select compiling location
 
 # :globe_with_meridians: Browsers list:
